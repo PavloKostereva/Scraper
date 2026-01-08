@@ -1,0 +1,22 @@
+Hi there,
+
+We found your listing on Gumtree and would like to help you list it on our platform.
+
+Your listing: {title}
+Location: {location}
+Price: {price}
+
+To claim your listing and complete the details, please click here:
+{claim_link}
+
+This link will allow you to:
+- Review all your listing details
+- Update any information if needed
+- Add your price and photo
+- Submit for approval
+
+This link will expire in 30 days.
+
+Best regards,
+BoxBox Team
+

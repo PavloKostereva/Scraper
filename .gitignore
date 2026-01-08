@@ -1,0 +1,48 @@
+# Scrapy
+*.pyc
+__pycache__/
+.scrapy/
+gumtree_scraper/__pycache__/
+gumtree_scraper/spiders/__pycache__/
+
+
+.env
+supabase_env_keys.txt
+
+# Output files
+gumtree_listings.json
+claim_links_messenger.json
+debug_response.html
+contacted_listings.json
+messaging_log.json
+
+# Configuration (contains credentials)
+config.json
+message_template.txt
+
+# Logs
+*.log
+
+# Diagnostic files (auto-generated on errors)
+error_500_*.html
+error_500_*.png
+error_send_*.png
+debug_reply_page_*.png
+debug_*.html
+success_*.png
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

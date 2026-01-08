@@ -1,0 +1,25 @@
+[
+  {
+    "listing_id": "7886200749",
+    "title": "Hurry before you miss our 50% off promo! Available for all sizes!",
+    "location": "201 W Stassney Lane, Austin, TX 78745",
+    "price": "$21",
+    "description": "Get 2 months 50% off today! Call today to rent your unit over the phone!",
+    "url": "https://austin.craigslist.org/prk/d/austin-hurry-before-you-miss-our-50-off/7886200749.html",
+    "reply_url": "N/A",
+    "scraped_at": "2025-11-17T17:35:50.616370",
+    "contact_info": "seller@example.com"
+  },
+  {
+    "listing_id": "7886200750",
+    "title": "Storage Unit Available - Great Location",
+    "location": "Austin, TX 78701",
+    "price": "$50/month",
+    "description": "Clean storage unit in secure facility. Climate controlled.",
+    "url": "https://austin.craigslist.org/prk/d/austin-storage-unit/7886200750.html",
+    "reply_url": "N/A",
+    "scraped_at": "2025-11-17T17:36:00.000000",
+    "contact_info": "N/A"
+  }
+]
+
