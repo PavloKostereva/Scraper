@@ -182,3 +182,4 @@ BROWSER = "firefox"  # Options: "chromium" or "firefox"
 
 - [MESSAGING_GUIDE.md](MESSAGING_GUIDE.md) - Complete messaging documentation
 - [QUICK_START.md](QUICK_START.md) - Quick reference guide
+# Scraper
